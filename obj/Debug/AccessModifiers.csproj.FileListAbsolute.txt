@@ -1,0 +1,8 @@
+C:\Users\PAPER\source\repos\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\PAPER\source\repos\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\PAPER\source\repos\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\PAPER\source\repos\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\PAPER\source\repos\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\source\repos\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\source\repos\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\PAPER\source\repos\AccessModifiers\obj\Debug\AccessModifiers.pdb
